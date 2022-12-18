@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ###
 
 - 💻 Frontend Software Engineer with 10 years of experience in the software development industry
-- 🧑‍💼 During my career, I have held various roles such as Technical Lead and Architect
+- 👷 During my career, I have held various roles such as Technical Lead and Architect
 - 🏋️‍♂️ I have also had the opportunity to coach and mentor development teams and conduct training activities on technologies and development methodologies
 - 💻 proficient with JavaScript and TypeScript stacks from the Frontend to Backend
 - 🤓 passionate about technology and enjoy working on projects that challenge my abilities and allow me to learn new things
