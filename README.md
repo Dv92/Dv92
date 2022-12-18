@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Marco a Software Engineer, from Italy. I'm currently working as Lead Frontend Architect at @entando, helping to find new ways for compose software.</p>
+<p align="left">I'm Marco a Software Engineer, from Italy. I'm currently working as Lead Frontend Architect at [@entando](https://github.com/entando), helping to find new ways for compose software.</p>]
 
 ###
 
