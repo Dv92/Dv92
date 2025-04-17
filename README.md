@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">
-Hi there! I'm Marco, a Software Engineer with a deep frontend expertise and full-stack experience, passionate about solving complex architectural challenges.
+I'm Marco, a Software Engineer with a deep frontend expertise and full-stack experience, passionate about solving complex architectural challenges.
 </p>
 
 <p align="left">
