@@ -17,7 +17,17 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Marco a Software Engineer, from Italy.</p>
+<p align="left">
+Hi there! I'm Marco, a Software Engineer with a deep frontend expertise and full-stack experience, passionate about solving complex architectural challenges.
+</p>
+
+<p align="left">
+Over the past decade, I've evolved from crafting web applications to designing developer platforms and leading cross-functional teams in their technical journey. I specialize in creating scalable architectures and developer experiences that empower teams to build better software.
+</p>
+
+<p align="left">
+What drives me is not just coding - it's mentoring others, exploring new technologies, and fostering a culture of knowledge sharing and continuous learning.
+</p>
 
 ###
 
