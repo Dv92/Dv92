@@ -35,7 +35,7 @@ What drives me is not just coding - it's mentoring others, exploring new technol
 
 ###
 
-- 💻 Frontend Software Engineer with 10 years of experience in the software development industry
+- 💻 Software Engineer with more than 10 years of experience in the software development industry
 - 🤓 passionate about technology and enjoy working on projects that challenge my abilities and allow me to learn new things
 - 💻 proficient with JavaScript and TypeScript stacks from the Frontend to Backend
 - 🎾 In my free time, I'm a tennis player and trekking lover
